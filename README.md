@@ -13,7 +13,7 @@ More information about the black market can be found here: https://en.wikipedia.
 ## Data Source
 dolartoday.com updates the parallel dollar price on a daily basis: https://dolartoday.com/indicadores/
 To download historical data on the parallel dollar, click on the image that is titled "DOLAR LIBRE EN VENEZUELA"
-![grafico](images/grafico.png =250x)
+![grafico](images/grafico.png | width=100)
 
 
 ### How to Run This Notebook :raising_hand:

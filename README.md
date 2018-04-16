@@ -2,7 +2,7 @@
 
 Using Bokeh to create an interactive view of the "parallel" dollar price
 
-<a href="http://htmlpreview.github.io/?https://github.com/anaparravera/visualizing-the-dollar/images/parallel-dollar-image.html">
+<a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/anaparravera/visualizing-the-dollar/master/images/parallel-dollar-image.html">
    <img src="images/screenshot.png" height="300">
 </a>
 

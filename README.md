@@ -1,6 +1,8 @@
 # Visualizing the Dollar (English Version)
 
-Using Bokeh to create an interactive view of the "parallel" dollar price. Click on this graph to see the interactive version:
+Using Bokeh to create an interactive view of the "parallel" dollar price.
+
+`Click on this graph to see the interactive version`:
 
 <a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/anaparravera/visualizing-the-dollar/master/images/parallel-dollar-image.html">
    <img src="images/screenshot.png" height="300">
